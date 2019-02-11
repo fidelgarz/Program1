@@ -1,0 +1,5 @@
+<project default = "complile" name = "SimpleWebServer, compile">
+	<target name = "compile">
+		<javac includeantruntime = "false" srcdir = "./" destdir = "./"
+	</target>
+</project>
